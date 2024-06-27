@@ -1,0 +1,13 @@
+P3
+# PPM cannot have max value less than any pixel value
+3 1
+200
+100
+120
+130
+1
+2
+3
+220
+145
+255
